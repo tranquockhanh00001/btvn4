@@ -1,0 +1,15 @@
+* {
+  box-sizing: border-box;
+  text-align: center;
+}
+
+.container {
+  display: flex;
+  justify-content: center; 
+  align-items: center;
+  max-width: 1000px;
+  background-color: #f8f9fa;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 80px;
+}

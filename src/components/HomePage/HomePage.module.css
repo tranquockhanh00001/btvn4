@@ -1,0 +1,46 @@
+.inputContainer{
+    margin-top: 50px;
+    font-size: 20px;
+}
+.inputContainer input{
+    width: 210px;
+    height: 35px;
+    border-radius: 5px;
+    border: 0;
+    margin-left: 15px;
+}
+.titleTime{
+    margin-top: 100px;
+}
+
+.temp{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 23px;
+}
+.temp img {
+    width: 120px;
+    height: 120px;
+}
+.cloud{
+    font-size: 40px;
+    margin-top: -10px;
+}
+.status {
+    display: flex;
+    justify-content: space-between;
+    margin-left: 35px;
+}
+.status h1{
+    font-size: 25px;
+    font-weight: 500;
+    color: #4B5563;
+}
+.status h2{
+    font-weight: 200;
+}
+.humidity,
+.windSpeed{
+    margin-right: 30px;
+}

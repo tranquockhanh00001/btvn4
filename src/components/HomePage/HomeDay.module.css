@@ -1,0 +1,14 @@
+.container{
+    display: inline-block;
+    width: 150px;
+    height: 150px;
+    margin-left: 30px;
+    cursor: pointer;
+}
+
+.container .content:hover,
+.today{
+    background-color: #669bbc;
+    border-radius: 5px;
+    color: #fff;
+}

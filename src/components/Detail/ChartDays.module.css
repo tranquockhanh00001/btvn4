@@ -1,0 +1,18 @@
+.containerInput {
+    font-size: 20px;
+}
+
+.containerInput label {
+    cursor: pointer;
+    padding-right: 30px;
+
+}
+
+.containerInput label:hover {
+    border-bottom: 3px solid #5bcedc;
+    opacity: 90%;
+}
+
+.containerInput input {
+    appearance: none;
+}
